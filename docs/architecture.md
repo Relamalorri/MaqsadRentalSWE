@@ -7,9 +7,9 @@ Maqsad is an **interactive, data-driven decision support system**. It continuous
 ---
 
 ## Three-Tier Architecture
-Presentation Layer   →   Mobile UI, maps, dashboards, surveys
-Application Layer    →   Business logic, notifications, analytics, recommendations
-Data Layer           →   Listings DB, survey data, demographics, map APIs
+- Presentation Layer   →   Mobile UI, maps, dashboards, surveys
+- Application Layer    →   Business logic, notifications, analytics, recommendations
+- Data Layer           →   Listings DB, survey data, demographics, map APIs
 
 ---
 ### Layer Responsibilities
