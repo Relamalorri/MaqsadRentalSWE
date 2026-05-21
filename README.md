@@ -33,9 +33,9 @@ Maqsad bridges the gap between available rental listings and actual community ne
 ## System Architecture
 
 Maqsad uses a **Three-Tier Architecture**:
-Presentation Layer   →   Mobile UI, maps, dashboards, surveys
-Application Layer    →   Business logic, notifications, analytics engine
-Data Layer           →   Listings DB, survey data, demographic datasets, map APIs
+- Presentation Layer   →   Mobile UI, maps, dashboards, surveys
+- Application Layer    →   Business logic, notifications, analytics engine
+- Data Layer           →   Listings DB, survey data, demographic datasets, map APIs
 
 ---
 | File | Contents |
